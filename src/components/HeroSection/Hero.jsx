@@ -52,9 +52,9 @@ const Hero = () => {
                     <button className="bg-red-500 font-semibold text-[13px] text-white flex gap-2 rounded-md px-4 py-2 transform transition-transform duration-300 hover:scale-105">
                         Get in touch <FaArrowRight className="mt-1.5 stext-[10px]" />
                     </button>
-                    <button className="bg-red-500 font-semibold text-[13px] text-white flex gap-2 rounded-md px-4 py-2 transform transition-transform duration-300 hover:scale-105 hover:text-black hover:border-2 border-black">
+                    {/* <button className="bg-red-500 font-semibold text-[13px] text-white flex gap-2 rounded-md px-4 py-2 transform transition-transform duration-300 hover:scale-105 hover:text-black hover:border-2 border-black">
                         Get in touch <FaArrowRight className="mt-1.5 stext-[10px]" />
-                    </button>
+                    </button> */}
                 </div>
                 <p className="text-gray-400 font-semibold text-[13px]">TRUSTED BY BRANDS AROUND AFRICA</p>
                <div className="flex gap-5 pt-5">
