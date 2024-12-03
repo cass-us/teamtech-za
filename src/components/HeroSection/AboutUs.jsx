@@ -16,7 +16,7 @@ const AboutUs = () => {
             <div className="bg-red-500 h-0.5 w-12"></div>
           </div>
           <p className="py-5">
-            With a presence in South Africa and Mozambique, we specialize in long-term infrastructure management, strategic IT consulting, and high-quality product selection and solution-selling. Our expert team provides comprehensive support, from designing and installing to maintaining and optimizing all aspects of your company’s network. With TEAMTECH IT Solutions, you can trust that your IT infrastructure is in capable hands, freeing you to focus on what matters most – growing your business.
+            With a presence in Southern Africa, we specialize in long-term infrastructure management, strategic IT consulting, and high-quality product selection and solution-selling. Our expert team provides comprehensive support, from designing and installing to maintaining and optimizing all aspects of your company’s network. With TEAMTECH IT Solutions, you can trust that your IT infrastructure is in capable hands, freeing you to focus on what matters most – growing your business.
           </p>
           <button className="bg-red-500 font-semibold text-[13px] border border-white flex gap-2 rounded-md px-4 py-2 transform transition-transform duration-300 hover:scale-125">
             More about us <FaArrowRight className="mt-2 text-[10px]" />
