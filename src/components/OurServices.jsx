@@ -39,14 +39,14 @@ const OurServices = () => {
                 <h1 className="text-blue-950 text-[30px] font-bold">Our Services</h1>
                 <div className="bg-red-500 mt-5 h-0.5 w-12"></div>
                 <div className="max-w-md">
-                    <p className="py-5">TEAMTECH IT Solutions was established in 2013 in Johannesburg, South Africa and specialises in IT Consulting. TEAMTECH IT actively provides skills and expertise for businesses across the SADC, including: South Africa, Mozambique.</p>
+                    <p className="py-5">TEAMTECH IT Solutions was established in 2024 in Johannesburg, South Africa and specialises in IT Consulting. TEAMTECH IT actively provides skills and expertise for businesses across the SADC, including: South Africa, Mozambique.</p>
                 </div>
             </div>
             <div className="block md:hidden">
                 <h1 className="text-blue-950 text-[30px] font-bold">Our Services</h1>
                 <div className="bg-red-500 mt-5 h-0.5 w-12"></div>
                 <div className="max-w-md">
-                    <p className="py-5">TEAMTECH IT Solutions was established in 2013 in Johannesburg, South Africa and specialises in IT Consulting. TEAMTECH IT actively provides skills and expertise for businesses across the SADC, including: South Africa, Mozambique.</p>
+                    <p className="py-5">TEAMTECH IT Solutions was established in 2024 in Johannesburg, South Africa and specialises in IT Consulting. TEAMTECH IT actively provides skills and expertise for businesses across the SADC, including: South Africa, Mozambique.</p>
                 </div>
             </div>
         </div>
