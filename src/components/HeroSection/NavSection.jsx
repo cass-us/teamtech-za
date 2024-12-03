@@ -20,7 +20,7 @@ const NavSection = () => {
   // text-[#84c43c]
   return (
     <div>
-      <PopUp />
+      {/* <PopUp /> */}
       <nav className="fixed top-15 left-0 z-50 w-full">
       
         <section id="navigationBar" className={`w-full flex items-center justify-between p-4 bg-gray-100 opacity-80 h-[100px] md:h-[80px] shadow-md z-10 transition-all duration-300 ${menuOpen ? 'hidden' : 'block'}`}>
