@@ -3,7 +3,7 @@ import { MdEmail, MdPhone, MdLocationOn } from 'react-icons/md';
 
 const Footer = () => {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-center p-6 text-[13px] text-black opacity-60 font-bold bg-gray-100" id="footer">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-center p-6 text-[13px] text-black opacity-60 font-bold " id="footer">
       {/* Contact Section */}
       <div className="text-center">
         <p className="text-lg mb-2">Contact Us:</p>
