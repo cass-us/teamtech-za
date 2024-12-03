@@ -1,0 +1,13 @@
+/* NavSection.css */
+.hamburger-icon {
+    display: inline-block;
+    position: relative;
+    width: 2.5rem;
+    height: 2.5rem;
+    transition: transform 0.4s ease-in-out;
+  }
+  
+  .hamburger-icon.open {
+    transform: rotate(45deg); /* Transforms hamburger to X */
+  }
+  
