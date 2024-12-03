@@ -144,7 +144,7 @@ const OurServices = () => {
                     </div>
                 </div>
            </div>
-
+         <hr/>
         </div>
     </div>
   )
