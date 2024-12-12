@@ -5,7 +5,9 @@ const Footer = () => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-4 items-center p-6 text-[13px] text-black opacity-60 font-bold " id="footer">
       {/* Contact Section */}
+      
       <div className="text-center">
+       
         <p className="text-lg mb-2">Contact Us:</p>
         <div className="flex justify-center items-center mb-2">
           <MdEmail className="mr-2 text-xl" />

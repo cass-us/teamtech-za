@@ -47,7 +47,7 @@ const Hero = () => {
             <div className="px-5 ">
                 <h1 className="text-gray-400 font-semibold text-[13px]">High-quality IT Solutions</h1>
                 <h2 className="font-bold text-[30px] py-5">Unlock the <span className="text-blue-500">Full Potential</span> of <br />Your IT Infrastructure.</h2>
-                <p className="text-gray-500 text-[12px]">At NSK IT Solutions, we understand the importance of making the right investments at the right time. That’s why our expert IT consulting and management services are designed to help businesses like yours navigate the complex landscape of modern technology to achieve optimal efficiency and productivity.</p>
+                <p className="text-gray-500 text-[12px]">At TeamTechz IT Solutions, we understand the importance of making the right investments at the right time. That’s why our expert IT consulting and management services are designed to help businesses like yours navigate the complex landscape of modern technology to achieve optimal efficiency and productivity.</p>
                 <div className="py-10 flex gap-2">
                     <button className="bg-red-500 font-semibold text-[13px] text-white flex gap-2 rounded-md px-4 py-2 transform transition-transform duration-300 hover:scale-105">
                         Get in touch <FaArrowRight className="mt-1.5 stext-[10px]" />
